@@ -35,4 +35,4 @@ EXPOSE 8080
 
 # start the aplication 
 
-CMD ["java", "-jar", "/app/target/expenseapp.jar"]
+CMD ["java", "-jar", "expenseapp.jar"]
